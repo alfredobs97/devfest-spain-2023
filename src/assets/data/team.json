@@ -1,0 +1,70 @@
+[
+  {
+    "id": "6001",
+    "name": "Alfredo Bautista",
+    "company": {
+      "name": "Frontend dev",
+      "designation": ""
+    },
+    "community_title": "Google Developer Expert for Flutter & Dart",
+    "image": "",
+    "bio": "Alfredo Bautista",
+    "social": {
+      "linkedin": "asd",
+      "twitter": "asd",
+      "web": "asd"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6002",
+    "name": "Andreu Ibanez",
+    "company": {
+      "name": "Parc Científic i Tecnològic Agroalimentari de Lleida",
+      "designation": "Coordinador de los Laboratorios TIC del Parque Científico de Lleida"
+    },
+    "community_title": "Community organizer of GDGSpain and GDGLleida",
+    "image": "andreu.jpeg",
+    "bio": "I'm a never ending looking person for emerging new technologies. Information technology, personal computing, lasers, ham radio, mobility, modding, and now drones and wearables, are some of the areas y do enjoy learning and working for.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/andreuibanez/",
+      "twitter": "https://twitter.com/andreuibanez",
+      "web": "asd"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6003",
+    "name": "Salva Guerrero",
+    "company": {
+      "name": "Pizzalovers",
+      "designation": "Influencer"
+    },
+    "community_title": "GDG organizer and contributor",
+    "image": "",
+    "bio": "",
+    "social": {
+      "linkedin": "asd",
+      "twitter": "asd",
+      "web": "asd"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6004",
+    "name": "Jose Márquez",
+    "company": {
+      "name": "",
+      "designation": "Flutter dev"
+    },
+    "community_title": "GDG organizer and contributor",
+    "image": "",
+    "bio": "",
+    "social": {
+      "linkedin": "asd",
+      "twitter": "asd",
+      "web": "asd"
+    },
+    "type": "Core"
+  }
+]

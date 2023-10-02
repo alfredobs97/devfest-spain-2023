@@ -1,0 +1,22 @@
+[
+  {
+    "question": "¿Que es un Devfest?",
+    "answer": "DevFest es una conferencia tecnológica descentralizada anual organizada por la comunidad de Google Developer Groups (GDG). Los GDG organizan estos eventos en todo el mundo.<br><br>DevFest 2023 marca el undécimo año de DevFest y representa el comienzo de la segunda década de la comunidad GDG. A través de DevFest, puedes seguir explorando cómo el conjunto de herramientas para desarrolladores de Google puede ampliar el impacto de los desarrolladores y profesionales tecnológicos locales como tú en todo el mundo.<br><br>Ya sea que te apasione encontrar nuevas oportunidades o mejorar tus conocimientos sobre las últimas herramientas para desarrolladores de Google, o explorar cómo utilizar las tecnologías de Google para generar impacto social y económico, DevFest ofrece una increíble plataforma para que los desarrolladores se conecten localmente, aprendan y desarrollen las herramientas de Google."
+  },
+  {
+    "question": "¿Que es un Google Developer Groups (GDG)?",
+    "answer": "Google Developer Groups (GDG) es la comunidad de desarrolladores más grande del mundo. Existen más de 1000 GDG en más de 140 países de todo el mundo. El programa ayuda a los desarrolladores a conectarse entre sí y aprender a crear productos en todas las plataformas de Google.<br><br>Cada GDG es un centro comunitario local de desarrolladores profesionales que comparten experiencia y pasión por la tecnología para desarrolladores de Google.<br><br> Las comunidades GDG coordinan actividades comunitarias centradas en ayudar a los desarrolladores a aprender, conectarse y crecer mientras crean un fuerte sentido de pertenencia a la comunidad local y global de los Grupos de desarrolladores de Google."
+  },
+  {
+    "question": "¿Cuando es el evento?",
+    "answer": "El Devfest Spain de 2023 se hará el día 9 de Noviembre de 2023."
+  },
+  {
+    "question": "¿Cómo puedo convertirme en miembro del grupo de desarrolladores de Google?",
+    "answer": "Visite la <a href='https://gdg.community.dev/'>Plataforma de eventos GDG</a> o <a href='https://developers.google.com/community/devfest#find-a- devfest-community-near-you'>use la herramienta de mapa</a> para encontrar un capítulo del grupo de desarrolladores de Google cerca de usted. Visite la página de cada grupo de desarrolladores de Google para encontrar más información sobre el grupo, los eventos y cómo unirse."
+  },
+  {
+    "question": "¿Qué tiene de especial DevFest?",
+    "answer": "DevFest es la conferencia anual distribuida globalmente del programa GDG. A diferencia de una reunión o una sesión de oradores, los eventos DevFests cubren múltiples temas y ofrecen un conjunto de actividades cuyo objetivo es ayudar a los desarrolladores locales a reunirse para aprender, desarrollar y comprender el conjunto completo de herramientas para desarrolladores de Google.<br><br>Los eventos DevFest suceden durante la segunda parte del año y ofrecer una forma de interactuar con contenido nuevo de varios equipos de productos de Google"
+  }
+]

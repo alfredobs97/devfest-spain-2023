@@ -1,0 +1,79 @@
+[
+  {
+    "id": "101",
+    "name": "Jose Marquez",
+    "company": {
+      "name": "a",
+      "designation": "Tech Lead"
+    },
+    "community_title": "GDG organizer & contributor",
+    "image": "",
+    "bio": "",
+    "social": {
+      "linkedin": "asd",
+      "twitter": "asd",
+      "web": "asd"
+    }
+  },
+  {
+    "id": "102",
+    "name": "Alfredo Bautista",
+    "company": {},
+    "community_title": "Google Developer Expert Flutter/Dart",
+    "image": "",
+    "bio": "",
+    "social": {
+      "linkedin": "asd",
+      "twitter": "asd",
+      "web": "asd"
+    }
+  },
+  {
+    "id": "103",
+    "name": "Moises Martínez",
+    "company": {
+      "name": "agprop",
+      "designation": "Tech Lead"
+    },
+    "community_title": "",
+    "image": "moises.jpeg",
+    "bio": "Doctor en ciencias de la computación e Inteligencia Artificial desde 2016. Dedico la mayor parte de mi vida profesional a la investigación en el área de la Inteligencia Artificial (especialmente en la aplicación de planificación automática y aprendizaje automático en entorno reales como robots o videojuegos). Además, en mis pequeños instantes libres aprovecho para el aprendizaje y el desarrollo de aplicaciones web o para dispositivos móviles.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/momartinm/",
+      "twitter": "https://twitter.com/moisipm",
+      "web": "asd"
+    }
+  },
+  {
+    "id": "104",
+    "name": "Víctor Carreras",
+    "company": {
+      "name": "Capgemini",
+      "designation": "Mobile Chapter Lead - iOS | Flutter | Android"
+    },
+    "community_title": "",
+    "image": "victor.jpeg",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/vicajilau/",
+      "twitter": "https://twitter.com/vcarreras9",
+      "web": "asd"
+    }
+  },
+  {
+    "id": "105",
+    "name": "Andreu Ibáñez",
+    "company": {
+      "name": "Parc Científic i Tecnològic Agroalimentari de Lleida",
+      "designation": "Coordinador de los Laboratorios TIC del Parque Científico de Lleida"
+    },
+    "community_title": "",
+    "image": "andreu.jpeg",
+    "bio": "I'm a never ending looking person for emerging new technologies. Information technology, personal computing, lasers, ham radio, mobility, modding, and now drones and wearables, are some of the areas y do enjoy learning and working for.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/andreuibanez/",
+      "twitter": "https://twitter.com/andreuibanez",
+      "web": "asd"
+    }
+  }
+]

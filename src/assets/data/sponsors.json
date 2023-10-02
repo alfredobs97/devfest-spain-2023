@@ -1,0 +1,37 @@
+[
+  {
+    "category_name": "Sponsors",
+    "sponsors": [
+      {
+        "name": "Google For Developers",
+        "link": "https://developers.google.com",
+        "logo": "googlefordevelopers.svg"
+      },
+      {
+        "name": "Xtorm",
+        "link": "https://www.xtorm.eu/",
+        "logo": "xtorm.jpeg"
+      }
+    ]
+  },
+  {
+    "category_name": "Venue Sponsors",
+    "sponsors": [
+      {
+        "name": "Andalucía Labs",
+        "link": "https://www.andalucialab.org/",
+        "logo": "andalucialabs.webp"
+      }
+    ]
+  },
+  {
+    "category_name": "Template Partner",
+    "sponsors": [
+      {
+        "name": "TechFerment",
+        "link": "https://techferment.com",
+        "logo": "techferment.svg"
+      }
+    ]
+  }
+]

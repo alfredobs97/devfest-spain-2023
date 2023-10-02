@@ -1,0 +1,67 @@
+{
+  "name": "DevFest Spain",
+  "cover_image": "cover.png",
+  "desc": {
+    "short": "El Devfest del GDG Spain se desplaza este 2023 a Marbella, donde trabajaremos Flutter y Machine Learning y Inteligencia Artificial con charlas y talleres muy orientado a la formación de jóvenes.",
+    "long": "El Devfest del GDG Spain se desplaza este 2023 a Marbella, donde trabajaremos Flutter y Machine Learning y Inteligencia Artificial con charlas y talleres muy orientado a la formación de jóvenes."
+  },
+  "hashtags": ["DevFest2023", "GDGMarbella", "GDGSpain"],
+  "date": "9 de Noviembre, 2023",
+  "time": "10:00 - 14:00",
+  "venue": {
+    "name": "Andalucía Lab",
+    "address": "Km 189 N-340",
+    "city": "Marbella",
+    "pincode": "29604",
+    "map": "https://gdg.community.dev/events/details/google-gdg-lleida-presents-devfest-spain-2023-flutter-y-aiml-en-marbella/cohost-gdg-lleida#event-info"
+  },
+  "registration": {
+    "link": "https://gdg.community.dev/events/details/google-gdg-lleida-presents-devfest-spain-2023-flutter-y-aiml-en-marbella/cohost-gdg-lleida",
+    "status": "1"
+  },
+  "call_for_speakers": {
+    "status": "0",
+    "link": "",
+    "lastdate": ""
+  },
+  "stats": [
+    {
+      "name": "Charlas",
+      "value": "1"
+    },
+    {
+      "name": "Speakers",
+      "value": "5"
+    },
+    {
+      "name": "Visitantes",
+      "value": "150+"
+    },
+    {
+      "name": "Sesiones",
+      "value": "4"
+    },
+    {
+      "name": "Días",
+      "value": "1"
+    },
+    {
+      "name": "Workshops",
+      "value": "1"
+    }
+  ],
+  "what_to_expect": [
+    {
+      "label": "Conecta con desarrolladores",
+      "value": "Los devfest son una gran oportunidad para conocer la comunidad de desarrolladores cerca de ti, además de poder conectar con desarrolladores de talla mundial."
+    },
+    {
+      "label": "Aprende de expertos",
+      "value": "Conoces a ponentes top, expertos en su tecnología."
+    },
+    {
+      "label": "Diviertete",
+      "value": ""
+    }
+  ]
+}
