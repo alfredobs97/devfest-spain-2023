@@ -28,21 +28,21 @@
   {
     "id": "1003",
     "slide": "",
-    "title": "Que me habría gustado me explicasen antes de pasar a estudios superiores",
-    "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
+    "title": "Flutter Community Programs",
+    "description": "There are many ways to be involved in Flutter and Flutter communities all around the world. I will give an introduction to Flutter's community programs and how to join them.",
     "track": "",
     "link": "",
     "time": "10:15 a 10:45",
     "format": "Day 1",
     "date": "9 Nov, 2023",
     "timeDuration": "30",
-    "speakers": [101]
+    "speakers": [106]
   },
   {
     "id": "1004",
     "slide": "",
-    "title": "Charla Flutter",
-    "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
+    "title": "Flutter, un código para todo",
+    "description": "En esta charla introductoria de Flutter, el framework multiplataforma de Google para desarrollar aplicaciones Cross-platform, veremos que es, sus ventajas frente a otros frameworks y porque muchas empresas las están eligiendo para su desarrollo, como Google.",
     "track": "",
     "link": "",
     "time": "10:45 a 11:15",
@@ -54,8 +54,8 @@
   {
     "id": "1005",
     "slide": "",
-    "title": "Charla ML/AI",
-    "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
+    "title": "Unboxing LLMs",
+    "description": "Últimamente todo el mundo habla de ChatGPT o incluso de Bard, pero no todo el mundo se pregunta cómo funcionan por dentro estos nuevos sistemas basados en Inteligencia Artificial (IA), utilizan redes de neuronas profundas, transformers, algoritmos de búsqueda.En esta charla describiremos de manera sencilla cómo funcionan los transformers que son los elementos fundamentales de los Large Language Models (LLMs) los cuales son la tecnología principal en la que se basan ChatGPT y Bard. Si te apetece descubrir de qué va todo eso de los transformers pasate a escucharme",
     "track": "",
     "link": "",
     "time": "11:15 a 11:45",
@@ -80,9 +80,9 @@
   {
     "id": "1007",
     "slide": "",
-    "title": "Taller Flutter",
-    "description": "",
-    "track": "",
+    "title": "Crea tu primera app con Flutter",
+    "description": "En este workshop, aprenderemos los primeros pasos para construir tu primera aplicación con Flutter, el framework cross-platform de Google.",
+    "track": "Sala taller",
     "link": "",
     "time": "12:30 a 14:00",
     "format": "Day 1",
@@ -93,14 +93,27 @@
   {
     "id": "1008",
     "slide": "",
-    "title": "Mesa redonda comunidades GDG",
+    "title": "Aprendizajes para tu futuro personal y profesional",
     "description": "",
     "track": "",
     "link": "",
-    "time": "16:00 a 18:00",
+    "time": "12:30 a 13:15",
     "format": "Day 1",
     "date": "9 Nov, 2023",
-    "timeDuration": "180",
-    "speakers": [101, 102,103, 104, 105]
+    "timeDuration": "45",
+    "speakers": [101]
+  },
+  {
+    "id": "1009",
+    "slide": "",
+    "title": "Mesa redonda comunidades Flutter",
+    "description": "",
+    "track": "",
+    "link": "",
+    "time": "18:00 a 19:30",
+    "format": "Day 1",
+    "date": "9 Nov, 2023",
+    "timeDuration": "120",
+    "speakers": [101, 102, 104, 105, 106]
   }
 ]

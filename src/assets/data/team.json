@@ -7,12 +7,12 @@
       "designation": ""
     },
     "community_title": "Google Developer Expert for Flutter & Dart",
-    "image": "",
-    "bio": "Alfredo Bautista",
+    "image": "alfredo.png",
+    "bio": "",
     "social": {
-      "linkedin": "asd",
-      "twitter": "asd",
-      "web": "asd"
+      "linkedin": "https://www.linkedin.com/in/alfredo-bautista-santos-179b2b105/",
+      "twitter": "https://twitter.com/alfredobs97",
+      "web": ""
     },
     "type": "Core"
   },
@@ -41,29 +41,29 @@
       "designation": "Influencer"
     },
     "community_title": "GDG organizer and contributor",
-    "image": "",
+    "image": "salva.jpeg",
     "bio": "",
     "social": {
-      "linkedin": "asd",
-      "twitter": "asd",
-      "web": "asd"
+      "linkedin": "",
+      "twitter": "",
+      "web": ""
     },
     "type": "Core"
   },
   {
     "id": "6004",
-    "name": "Jose Márquez",
+    "name": "Jose Manuel Márquez",
     "company": {
-      "name": "",
-      "designation": "Flutter dev"
+      "name": "HumanITcare",
+      "designation": "Senior Flutter Engineer"
     },
     "community_title": "GDG organizer and contributor",
-    "image": "",
+    "image": "jose.png",
     "bio": "",
     "social": {
-      "linkedin": "asd",
-      "twitter": "asd",
-      "web": "asd"
+      "linkedin": "https://www.linkedin.com/in/ikicode/",
+      "twitter": "https://twitter.com/ikicode",
+      "web": ""
     },
     "type": "Core"
   }

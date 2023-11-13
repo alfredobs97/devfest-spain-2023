@@ -8,6 +8,11 @@
         "logo": "googlefordevelopers.svg"
       },
       {
+        "name": "Flutter team",
+        "link": "https://www.flutter.dev/",
+        "logo": "flutter.png"
+      },
+      {
         "name": "Xtorm",
         "link": "https://www.xtorm.eu/",
         "logo": "xtorm.jpeg"
@@ -21,6 +26,36 @@
         "name": "Andalucía Labs",
         "link": "https://www.andalucialab.org/",
         "logo": "andalucialabs.webp"
+      }
+    ]
+  },
+  {
+    "category_name": "Institutos que participan",
+    "sponsors": [
+      {
+        "name": "I.E.S Mar de Alborán",
+        "link": "",
+        "logo": "mar-de-alboran.png"
+      },
+      {
+        "name": "I.E.S Guadalpín",
+        "link": "",
+        "logo": "guadalpin.png"
+      },
+      {
+        "name": "I.E.S Salduba",
+        "link": "",
+        "logo": "salduba.jpg"
+      },
+      {
+        "name": "I.E.S Vega de Mijas",
+        "link": "",
+        "logo": "vega-mijas.jpeg"
+      },
+      {
+        "name": "I.E.S Victoria Kent",
+        "link": "",
+        "logo": "victoria-kent.jpeg"
       }
     ]
   },

@@ -1,18 +1,18 @@
 [
   {
     "id": "101",
-    "name": "Jose Marquez",
+    "name": "Jose Manuel Márquez",
     "company": {
-      "name": "a",
-      "designation": "Tech Lead"
+      "name": "HumanITcare",
+      "designation": "Senior Software Engineer"
     },
     "community_title": "GDG organizer & contributor",
-    "image": "",
-    "bio": "",
+    "image": "jose.png",
+    "bio": "I have been working in the technology sector on web and mobile development projects for more than 10 years. I have worked for multinationals, small companies, startups and I have also tried the adventure of being autonomous both as a freelance and as a co-founder of Código Base.\nIn 2018 I got to know Flutter, Google's new technology for application development, and now I am focused on continuing to develop my career hand in hand with this incredible technology.\nI'm very involved in tech communities. I am co-organizer of GDG Marbella and FlutterConf through which we organize events to share knowledge with other colleagues in the community.\nMy main objective is to help others personally and professionally through my knowledge and experience. I try to be totally honest from minute one and I don't like wasting time at all.",
     "social": {
-      "linkedin": "asd",
-      "twitter": "asd",
-      "web": "asd"
+      "linkedin": "https://www.linkedin.com/in/ikicode/",
+      "twitter": "https://twitter.com/ikicode",
+      "web": ""
     }
   },
   {
@@ -20,28 +20,25 @@
     "name": "Alfredo Bautista",
     "company": {},
     "community_title": "Google Developer Expert Flutter/Dart",
-    "image": "",
-    "bio": "",
+    "image": "alfredo.png",
+    "bio": "Frontend dev con Flutter desde 2019. A parte de viajar probando comida, me encanta organizar eventos como este donde conocer la comunidad local y aprender de ella. Co-organizer @GDGMarbella & @flutterconfes💙",
     "social": {
-      "linkedin": "asd",
-      "twitter": "asd",
-      "web": "asd"
+      "linkedin": "https://www.linkedin.com/in/alfredo-bautista-santos-179b2b105/",
+      "twitter": "https://twitter.com/alfredobs97",
+      "web": ""
     }
   },
   {
     "id": "103",
     "name": "Moises Martínez",
-    "company": {
-      "name": "agprop",
-      "designation": "Tech Lead"
-    },
+    "company": {},
     "community_title": "",
     "image": "moises.jpeg",
     "bio": "Doctor en ciencias de la computación e Inteligencia Artificial desde 2016. Dedico la mayor parte de mi vida profesional a la investigación en el área de la Inteligencia Artificial (especialmente en la aplicación de planificación automática y aprendizaje automático en entorno reales como robots o videojuegos). Además, en mis pequeños instantes libres aprovecho para el aprendizaje y el desarrollo de aplicaciones web o para dispositivos móviles.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/momartinm/",
       "twitter": "https://twitter.com/moisipm",
-      "web": "asd"
+      "web": ""
     }
   },
   {
@@ -57,7 +54,7 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/vicajilau/",
       "twitter": "https://twitter.com/vcarreras9",
-      "web": "asd"
+      "web": ""
     }
   },
   {
@@ -73,7 +70,23 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/andreuibanez/",
       "twitter": "https://twitter.com/andreuibanez",
-      "web": "asd"
+      "web": ""
+    }
+  },
+  {
+    "id": "106",
+    "name": "Nilay Coskun",
+    "company": {
+      "name": "Google",
+      "designation": "Program Manager, Flutter DevRel"
+    },
+    "community_title": "",
+    "image": "nilay.jpeg",
+    "bio": "Nilay has been working on the Flutter Developer Relations team for almost 6 years. She manages the Flutter's Community Programs and tries to figure out how to support Flutter's communities best.",
+    "social": {
+      "linkedin": "",
+      "twitter": "https://twitter.com/nlycskn",
+      "web": ""
     }
   }
 ]

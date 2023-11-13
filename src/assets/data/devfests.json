@@ -26,28 +26,16 @@
   },
   "stats": [
     {
-      "name": "Charlas",
-      "value": "1"
-    },
-    {
       "name": "Speakers",
       "value": "5"
     },
     {
       "name": "Visitantes",
-      "value": "150+"
+      "value": "200+"
     },
     {
       "name": "Sesiones",
-      "value": "4"
-    },
-    {
-      "name": "Días",
-      "value": "1"
-    },
-    {
-      "name": "Workshops",
-      "value": "1"
+      "value": "5"
     }
   ],
   "what_to_expect": [
@@ -57,11 +45,11 @@
     },
     {
       "label": "Aprende de expertos",
-      "value": "Conoces a ponentes top, expertos en su tecnología."
+      "value": "Conoce a ponentes expertos con reconocimiento en tecnología. Una oportunidad para aprender de profesionales con trayectoria que podrán ayudarte en el desarrollo de tu carrera profesional."
     },
     {
-      "label": "Diviertete",
-      "value": ""
+      "label": "Diviértete",
+      "value": "DevFest es un espacio donde aprender divirtiéndote y compartiendo con personas que comparten tus mismos intereses. Aprende tecnología en un ambiente distentido, diverso e inspirador"
     }
   ]
 }
